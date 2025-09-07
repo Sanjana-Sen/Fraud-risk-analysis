@@ -72,3 +72,6 @@ Deploy Streamlit app on Streamlit Cloud/Heroku
 Integrate real-time fraud detection API
 
 Expand Power BI dashboard with geospatial fraud analysis
+
+🤝 Contributing
+Contributions are welcome! Please open an issue or submit a pull request for improvements.
